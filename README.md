@@ -1,2 +1,2 @@
 # apnacollege-demo
-This is my first Git tespo
+This is my first Git respo
